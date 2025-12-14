@@ -1,7 +1,7 @@
 # Site
-name: "Adsiconic.com blog"
+name: "Adsiconic.com Blog"
 title: "Adsiconic.com Blog"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "AdsIconic adalah Media Share Pribadi yang akan Membuatmu Tahu Semuanya"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
@@ -20,7 +20,15 @@ authors:
     email: sebinnus@gmail.com
     web: https://adsiconic.com
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Author of MediumAds yang Suka Kamu dan Suka Aku"
+  john:
+    name: Tim Ads
+    display_name: Tim Ads
+    gravatar: 
+    email: sebinnus@gmail.com
+    web: https://adsiconic.com
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of MediumAds yang Suka Kamu dan Suka Aku"
 
 # Plugins
 plugins:
@@ -58,6 +66,6 @@ adsense-data-ad-client: "ca-pub-xxxxxxxxxx"
 adsense-data-ad-slot: "xxxxxx"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Tips Ahli untuk Memilih Lemon yang Tepat untuk Jus Enak 100%"
-author: AdmAds
+author: sal
 categories: [ Info, Tutorial ]
 image: assets/images/17.jpg
+rating: 3.5
 ---
 
 Tips Ahli untuk Memilih Lemon yang Tepat untuk Dijadikan Jus - Lemon ini adalah salah satu buah yang sangat serbaguna, sering digunakan dalam berbagai macam masakan dan minuman, terutama jus lemon yang menyegarkan. Namun, tidak semua lemon sama, kualitas dan rasa lemon sangat bergantung pada cara pemilihannya. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Facial Recognition Teknologi Keamanan Canggih yang Mengubah Dunia Digital"
-author: AdsAdm
+author: sal
 categories: [ Info ]
 image: assets/images/2.jpg
 rating: 3

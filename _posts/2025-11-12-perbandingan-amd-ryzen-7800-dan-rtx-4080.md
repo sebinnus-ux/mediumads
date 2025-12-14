@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Perbandingan CPU AMD Ryzen 7800 XT dan GPU RTX 4080"
-author: AdsAdm
+author: sal
 categories: [ Info, Tutorial ]
 image: assets/images/15.jpg
+rating: 4.5
 ---
 Perbandingan CPU AMD Ryzen 7800 XT dan GPU RTX 4080 - Mana yang Lebih Unggul? - Dalam dunia teknologi komputer, pilihan antara CPU dan GPU sering kali menjadi topik yang sangat hangat, terutama ketika kita berbicara tentang performa gaming dan pengolahan data ini. Di antara produk terbaru AMD dan NVIDIA, AMD Ryzen 7800 XT dan NVIDIA RTX 4080 menjadi sorotan utama. 
 
