@@ -4,3 +4,5 @@ title: Privacy Policy
 permalink: /privacy
 comments: true
 ---
+
+Privacy Policy
