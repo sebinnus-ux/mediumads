@@ -7,10 +7,10 @@ description: "Tarif Tol Solo-Bandung Dua kota ini memang selalu punya daya tarik
 image: https://img.antaranews.com/cache/1200x800/2024/05/08/IMG-20240508-WA0052.jpg.webp
 featured: true
 hidden: true
-rating: 4.8
+rating: 4.5
 ---
 
-Siap-Siap Jalan-Jalan? Ini Dia Rincian Tarif Tol Solo-Bandung yang Perlu Kamu Tahu! | Halo, Sobat Petualang! Siapa di sini yang lagi excited pengin jalan-jalan dari Solo ke Bandung? Atau mungkin sebaliknya? 
+Siap-Siap Jalan-Jalan? Ini Dia Rincian Tarif Tol Solo-Bandung yang Perlu Kamu Tahu! Halo, Sobat Petualang! Siapa di sini yang lagi excited pengin jalan-jalan dari Solo ke Bandung? Atau mungkin sebaliknya? 
 
 Dua kota ini memang selalu punya daya tarik sendiri. Solo dengan budaya Jawanya yang kental dan kuliner legendarisnya, Bandung dengan aroma kopi dan udaranya yang sejuk. Kombinasi yang pas banget buat liburan, kan?
 
